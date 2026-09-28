@@ -1,4 +1,5 @@
 # Spotify Music Data Analysis
+![Spotify Music Data Analysis Dashboard](spotify-analysis-dashboard.png)
 
 **SQL · MySQL · Data Analysis**
 
