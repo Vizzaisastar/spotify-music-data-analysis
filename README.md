@@ -1,9 +1,11 @@
 # Spotify Music Data Analysis
-![Spotify Music Data Analysis Dashboard](spotify-analysis-dashboard.png)
+![Spotify Music Data Analysis Dashboard](spotify-data-analysis-dashboard.png)
 
 **SQL · MySQL · Data Analysis**
 
 ## Project Overview
+
+**Portfolio project:** SQL analysis of Spotify data focused on popularity, audio features, and music trends.
 
 This project analyses four Spotify datasets covering **artists, albums, tracks, and audio features**. The goal was to use SQL to answer business-focused questions about artist popularity, track popularity, genre diversity, audio characteristics, and how selected music features vary across decades.
 
