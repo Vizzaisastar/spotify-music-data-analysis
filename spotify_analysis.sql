@@ -1,4 +1,5 @@
 -- Spotify Music Data Analysis
+-- Portfolio SQL analysis of Spotify popularity, audio features, and music trends
 -- SQL / MySQL portfolio project
 --
 -- Original project: MIS202 - Managing Data and Information
