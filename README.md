@@ -1,5 +1,5 @@
 # Spotify Music Data Analysis
-![Spotify Music Data Analysis Dashboard](spotify-analysis-dashboard.png)
+![Spotify Music Data Analysis Dashboard](ChatGPT%20Image%20Sep%2028%2C%202026%2C%2006_05_29%20PM.png)
 
 **SQL · MySQL · Data Analysis**
 
