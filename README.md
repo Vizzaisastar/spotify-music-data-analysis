@@ -139,3 +139,30 @@ FROM ranked_tracks
 WHERE rn = 1
 ORDER BY track_popularity DESC, track_name ASC
 LIMIT 10;
+```
+
+## Repository Structure
+
+```text
+spotify-music-data-analysis/
+├── README.md
+├── spotify-data-analysis-dashboard.png
+└── spotify_analysis.sql
+```
+
+## How to Run
+
+1. Create a MySQL database.
+2. Create the four tables using the schema in `spotify_analysis.sql`.
+3. Import the Spotify CSV files into the matching tables.
+4. Run the analysis queries in MySQL Workbench.
+
+## Skills Demonstrated
+
+**SQL · MySQL · Relational Databases · Data Cleaning · Data Aggregation · Window Functions · Data Analysis · Business Analytics**
+
+## Project Context
+
+This project was originally completed as part of **MIS202 – Managing Data and Information** at Deakin University.
+
+It has been reformatted as a professional portfolio project to demonstrate practical SQL, relational database, and data-analysis skills.
